@@ -19,3 +19,5 @@ GMM is implemented with maximum accuracy of 34%.
 K-means is implemented with accuracy of 36.8%.
 
 CNN is implemented with the accuracy of 86% after iterating for 30-40 times. Please check file FinalCNN.ipynb for more details
+
+Github Link of Complete Project - https://github.com/PyramidML16/CIFAR10
